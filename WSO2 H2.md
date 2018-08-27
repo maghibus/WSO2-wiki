@@ -11,9 +11,10 @@ Aggiungere il seguente blocco xml al **carbon.xml**
 ```
 Connettersi al [pannello di controllo H2](http://localhost:8082/)
 
+Copiare la configurazione da 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE3MDc4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDAzODRdfQ==
 -->
