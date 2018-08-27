@@ -1,4 +1,4 @@
-# How retrive 
+# Retrieve user data
 ## API REST
 Esempio di un API con parametri **formData** ed endpoint [https://reqres.in/api/users](https://reqres.in/api/)
 ```yml
@@ -114,6 +114,6 @@ Nella in-sequence andiamo a leggere i ruoli dal payload JWT.
 See [Adding Mediation Extensions](https://docs.wso2.com/display/AM210/Adding+Mediation+Extensions)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFdTT0FNIHJldHJpZXZlIH
-VzZXJpbmZvXG4iLCJoaXN0b3J5IjpbOTA4Njk3NzI5LC0yMDg5
-ODE1NjU1XX0=
+VzZXJpbmZvXG4iLCJoaXN0b3J5IjpbLTEwMTYxODA5NDEsLTIw
+ODk4MTU2NTVdfQ==
 -->
