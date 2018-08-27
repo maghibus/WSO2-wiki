@@ -114,5 +114,8 @@ Nella in-sequence andiamo a leggere i ruoli dal payload JWT.
 See [Adding Mediation Extensions](https://docs.wso2.com/display/AM210/Adding+Mediation+Extensions)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFdTT0FNIHJldHJpZXZlIH
-VzZXJpbmZvXG4iLCJoaXN0b3J5IjpbLTEzNTgyMzgxN119
+VzZXJpbmZvXG5hdXRob3I6IG1hZ2hpYnVzXG50YWdzOiAnd3Nv
+MiwgYXBpbWFuYWdlciwgand0LCBmb3JtRGF0YSdcbmRhdGU6IC
+cyMDE4LTA4LTI3J1xuIiwiaGlzdG9yeSI6Wy00NzU2MDA1Mjhd
+fQ==
 -->
