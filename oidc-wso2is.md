@@ -1,4 +1,3 @@
----
 <h1 id="integrazione--openid-wso2">Integrazione  OpenID WSO2</h1>
 <p>Scaricare wso2is 5.3.0<br>
 Creare un utente e un Service Provider con callback URL <a href="http://localhost:8080">http://localhost:8080</a></p>
